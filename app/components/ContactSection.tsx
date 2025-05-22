@@ -14,7 +14,7 @@ export default function ContactSection() {
 				>
 					<h2 className="text-3xl font-bold">Open to Software Engineering Roles</h2>
 					<p className="text-gray-400 max-w-2xl mx-auto">
-						I’m actively seeking full-time roles as a Full Stack or Backend Software Engineer. If you're hiring or would like to collaborate, feel free to reach out!
+						I&rsquo;m actively seeking full-time roles as a Full Stack or Backend Software Engineer. If you&rsquo;re hiring or would like to collaborate, feel free to reach out!
 					</p>
 
 					{/* Location */}
